@@ -27,7 +27,7 @@
 | Category | Technologies |
 |-----------|--------------|
 | **Frontend** | React.js, Redux Toolkit, React Router |
-| **Styling** | CSS3 / Tailwind CSS (or your preferred CSS framework) |
+| **Styling** | CSS3  |
 | **Payment Gateway** | Razorpay APIs |
 | **Authentication** | JWT (JSON Web Tokens) |
 | **State Management** | Redux Toolkit (Slices + Async Thunks) |
