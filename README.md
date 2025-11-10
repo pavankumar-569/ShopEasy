@@ -31,7 +31,7 @@
 | **Payment Gateway** | Razorpay APIs |
 | **Authentication** | JWT (JSON Web Tokens) |
 | **State Management** | Redux Toolkit (Slices + Async Thunks) |
-| **Performance** | Code Splitting, Memoization, Lazy Loading |
+| **Performance** | Code Splitting, Lazy Loading |
 
 ---
 
@@ -59,5 +59,4 @@
 
 - Reduced load time by **30%** with:
   - **React.lazy** and dynamic imports for route-based code splitting  
-  - **React.memo** and **useMemo** for memoization  
   - Optimized re-renders by modular component design  
